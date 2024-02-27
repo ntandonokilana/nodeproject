@@ -15,7 +15,7 @@
     height: 40px;
     border-radius: 50%;
     border: 4px solid #f3f3f3;
-    border-top: 4px solid #3498db;
+    border-top: 4px solid #635531;
     animation: spin 1s linear infinite;
   }
   
