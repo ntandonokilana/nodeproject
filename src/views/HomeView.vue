@@ -1,8 +1,8 @@
 <template>
   <div class="home">
-  <h1>ThandoNaturals</h1>
-  <p>Nurture Your Roots, Embrace Your Beauty!</p>
-
+    <img src="https://ibb.co/1s6x26s" alt="">
+    <h1>ThandoNaturals</h1>
+    <p>Nurture Your Roots, Embrace Your Beauty!</p>
   </div>
 </template>
 

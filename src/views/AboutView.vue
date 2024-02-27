@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-     <img src="https://www.imagevenue.com/ME17P692" alt="" class="center-image">
+     <img src="https://i.postimg.cc/m2Pqbrzq/Minimalist-Aesthetic-Inspirational-Moodboard-Photo-Collage-Instagram-Post.png" alt="" class="center-image">
      <div class="container">
         <h2>Who Are We?</h2>
         <p>Welcome to ThandoNaturals, where love for natural hair meets empowerment. 

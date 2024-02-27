@@ -20,19 +20,19 @@
         padding: 50px;
         max-width: 400px;
         margin: 0 auto;
-        background-color: #b69c87;
+        background-color: #7d502b;
         border-radius: 30px;
     }
 
     .contact-form h2 {
         text-align: center;
-        color: #654321; 
+        color: #000000; 
     }
 
     .contact-form form label {
         display: block;
         margin-bottom: 10px;
-        color: #654321; 
+        color: #000000; 
     }
 
     .contact-form form input[type="text"],

@@ -1,13 +1,26 @@
-<template>
-    <div class="spinner"></div>
-    <Spinner v-if="loading" />
-  </template>
-  
-  <script>
-  export default {
-    name: 'Spinner'
-  };
-  </script>
+<template >
+  <div>
+      <div v-if="!loaded" class="loader">
+    <div class="loader-spinner"></div>
+  </div>
+  </div>
+</template>
+<script>
+export default {
+  data() {
+    return {
+      loaded: false // Initial state: page not loaded
+    };
+  },
+  mounted() {
+    // Simulate a 5-second delay before displaying content
+    setTimeout(() => {
+      // Set loaded to true after 2 seconds
+      this.loaded = true;
+    }, 2000);
+  }
+}
+</script>
   
   <style>
   .spinner {
